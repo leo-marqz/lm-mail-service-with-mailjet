@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMMailService", "LMMailService\LMMailService.csproj", "{55117897-257A-4CC8-AD92-E8E3AE725EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMMailAPP", "LMMailAPP\LMMailAPP.csproj", "{E1CE7E1A-E9E7-47FB-90D5-C74EEDA429D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55117897-257A-4CC8-AD92-E8E3AE725EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55117897-257A-4CC8-AD92-E8E3AE725EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55117897-257A-4CC8-AD92-E8E3AE725EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55117897-257A-4CC8-AD92-E8E3AE725EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CE7E1A-E9E7-47FB-90D5-C74EEDA429D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CE7E1A-E9E7-47FB-90D5-C74EEDA429D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CE7E1A-E9E7-47FB-90D5-C74EEDA429D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CE7E1A-E9E7-47FB-90D5-C74EEDA429D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947BFDE0-F808-425B-BB78-A0DBA8BA10A2}
+	EndGlobalSection
+EndGlobal
